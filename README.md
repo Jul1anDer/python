@@ -1,4 +1,4 @@
-# Python programming practice 
+# Практика з програмування (Python)
 
 <br>
 <h2 align="center">Connection ssh</h2>
