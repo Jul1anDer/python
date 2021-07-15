@@ -1,9 +1,9 @@
 <h1 align="center">Практика з програмування (Python)</h1>
-Яровий Юліан Валерійович ІПЗ-20015Б
+<p align="center">Яровий Юліан Валерійович ІПЗ-20015Б</p>
 <br>
 <h2 align="center">Connection ssh</h2>
 
-### Example commands
+### Приклади команд
 
 ```shell
 $ ssh-keygen -t rsa -b 4096 -C "email@"
@@ -21,7 +21,7 @@ $ ssh-add ~/.ssh/id_rsa
 <h2 align="center">Task-0</h2>
 <p align="left">Option 1: 1-Form a list of 30 different whole numbers from -100 to + 100. Know the maximum element in the list і th ordinal number. Rewrite the list to add only unpaired numbers on the list, or perhaps, there are no such numbers. Otrimaniy list to put in order the change of elements.</p>
 
-### Example
+### Приклад
 
 ```python
 import random
@@ -59,7 +59,7 @@ else:
 <br>
 <p align="left">Option 2: 2-Form a list of 30 different numbers from -100 to + 100. To know the maximum element in the list and the first ordinal number. To bet on all numbers, to stand the order.</p>
 
-### Example
+### Приклад
 
 ```python
 import random
@@ -135,7 +135,7 @@ print('Couple:', None if len(res) == 0 else res)
 
 <p align="left">2. Entering the command into the terminal:</p>
 
-### Example command
+### Приклад команди
 
 ```shell
 $ git clone https://github.com/sergden2021/python-practice.git
@@ -150,7 +150,7 @@ $ git clone https://github.com/sergden2021/python-practice.git
 
 <p align="left">3. Task: Create a program, if you enter a row, that sees all the numbers in the surrounding array, for which the program is another row without numbers. and an array of numbers. The change of a row in such a rank, so that the word is skinny in new, was repaired and ended with a great letter. To know the maximum value in the array of numbers, and all of the іnshі numbers are brought to the degree according to the іх index, that is recorded in the first array.</p> 
 
-### Example
+### Приклад
 
 ```python
 # Examples line:
@@ -285,7 +285,7 @@ Implement additional functions in the program. (cos, sin, tan, ctg, log, ln,%)</
   </p>
 </kbd>
 
-### Example
+### Приклад
 
 ```python
 from tkinter import *
@@ -418,7 +418,7 @@ win.mainloop()
 
 <img width="300px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--5x8ZbR8v--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/5b5e3vc30d0rqehp0wh5.jpg" alt="Task-3">
 
-### Install PyQt5
+### Встановлення PyQt5
 
 ```shell
 $ pip3 install PyQt5
@@ -447,7 +447,7 @@ $ pip3 install pyqt5-tools
 
 <p align="left">4. When the interface is complete. You will need to translate it into (.py) code. To make it easier to build the project later.</p>
 
-### Converting (.ui) in (.py)
+### Конвертування (.ui) in (.py)
 
 ```shell
 $ pyuic5 C19.ui -o C19.py
@@ -466,7 +466,7 @@ $ pyuic5 C19.ui -o C19.py
     <img src="https://drive.google.com/uc?id=1aFyxoYieJHyyo1zVgTGWoQX_-m-S62OY" width="100px" title="Save file">
 </kbd>
 
-### Example
+### Приклад
 
 ```python
 from os import pread
@@ -633,7 +633,7 @@ app.exec_()
 <br>
 <br>
 
-### Install pyTelegramBotAPI
+### Встановлення pyTelegramBotAPI
 
 ```shell
 $ pip3 install pyTelegramBotAPI
@@ -647,7 +647,7 @@ $ pip3 install pyTelegramBotAPI
 <br>
 <br>
 
-### Example
+### Приклад
 
 ```python
 import telebot
