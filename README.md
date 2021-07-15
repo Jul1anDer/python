@@ -1,4 +1,4 @@
-# Практика з програмування (Python)
+<h1 align="center">Практика з програмування (Python)</h1>
 Яровий Юліан Валерійович ІПЗ-20015Б
 <br>
 <h2 align="center">Connection ssh</h2>
