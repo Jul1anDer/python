@@ -447,7 +447,7 @@ $ pip3 install pyqt5-tools
 
 <p align="left">4. When the interface is complete. You will need to translate it into (.py) code. To make it easier to build the project later.</p>
 
-### Конвертування (.ui) in (.py)
+### Перетворення (.ui) in (.py)
 
 ```shell
 $ pyuic5 C19.ui -o C19.py
